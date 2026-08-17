@@ -1,8 +1,8 @@
 # Laboratory Activity 3: Mission 3 - Become a Multi-Cloud Explorer
 
 **Course:** Cloud Computing  
-**Author:** Christian Jay Udtojan 
-**Repository:** Cloud Computing Portfolio  
+**Author:** `Christian Jay Udtojan`  
+**Repository:** `Cloud Computing Portfolio`
 
 ---
 
